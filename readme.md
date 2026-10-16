@@ -54,5 +54,5 @@ student-performance-analyzer/
 - Add advanced analytics and machine learning.
 
 ## 👨‍💻 Author
-**Rahul Bhuyan**  
+**Rahul Kumar Bhuyan**  
 Aspiring Data Scientist & AI Engineer.
